@@ -18,5 +18,6 @@ samples, guidance on mobile development, and a full API reference.
 
 SCREENSHOT:
 
-USED Jsonplaceholder:
-![Screenshot_1726773934](https://github.com/user-attachments/assets/296d36e3-ed05-4d1b-9e1e-9b0eddc09c8a)
+API INTEGRATION WITH MODEL:
+![Screenshot_1726922006](https://github.com/user-attachments/assets/5817a00f-eb2e-4a93-816e-0261f95b89cc)
+
